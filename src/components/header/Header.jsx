@@ -2,7 +2,7 @@ export const Header = () => {
   return (
     <div>
       <header>
-        <h1>Simple Trello Clone</h1>
+        <h1>Trello Clone for study</h1>
       </header>
     </div>
   );
